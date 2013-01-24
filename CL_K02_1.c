@@ -1,5 +1,7 @@
 /*ì¬ŽÒ:1T1(14) •àV•¶Ø*/
 /*‰Û‘è–¼:‰Û‘è02_1*/
+/*commit 5‰ñ–Ú|
+‚±‚ê‚Å‚Ù‚ñ‚Æ‚É‚ ‚Á‚Ä‚ñ‚Ì‚©‚ÈH*/
 
 #include<stdio.h>
 void main(void){
