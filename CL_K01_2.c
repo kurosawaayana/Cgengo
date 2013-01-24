@@ -1,6 +1,8 @@
 /*ì¬Ò:1T1(14)•àV•¶Ø*/
 /*‰Û‘è–¼:CL_K01_2*/
 
+/*commit‚È‚¤*/
+
 
 #include<stdio.h>
 void main(void){
