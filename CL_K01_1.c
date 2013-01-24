@@ -2,6 +2,7 @@
 /*‰Û‘è–¼:‰Û‘è01_1*/
 
 #include<stdio.h>
+
 void main(void){
 	int sum;
 	sum=15+37;
